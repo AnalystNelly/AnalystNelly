@@ -1,7 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Nelly and I'm a Data Analyst </h1>
-<h3 align="center">A passionate data analyst from Indonesia</h3>
-<h3 align="center">Portofolio: https://analystnelly.github.io </h3>
+<h1 align="center">👋 Hi, I'm Nelly Irawati </h1>
+<h3 align="center">👀 I’m interested and passionate in data analyst from Indonesia</h3>
+<h3 align="center">🌱 I’m currently learning and building projects using Tableau, SQL, Python and Advance Excel </h3>
+<h3 align="center">📘 I have finished bootcamp Data Analyst Learning at Triple Ten Indonesia  </h3>
+<h3 align="center">💞️ I’m looking to collaborate on full time data analyst/business analyst job roles </h3>
+<h3 align="center">📫 How to reach me awesome.nelis@gmail.com and my Portofolio Project : https://analystnelly.github.io </h3>
+
 
 I am a Data Analyst with a passion for analyzing data to extract valuable insights and make fact-based decisions. I Graduated from Triple Ten Indonesia as a Data Analyst online Bootcamp. And experience across various data analysis projects, I believe that data is a story waiting to be unveiled. Now, I have transitioned into the role of a data analyst, aiming to merge my expertise in information technology with my passion for data. When I decided to switch careers from marketing to data analysis, I was confident that I could navigate the transition successfully. I prepared myself by enrolling in a 7-month Data Analyst course. I began by learning how to gather data from web sources (Data Scraping), followed by data preprocessing, Exploratory Data Analysis, and Statistical Data Analysis.
 
